@@ -1,0 +1,1119 @@
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\dream\OneDrive\Рабочий стол\step-by-step-ldx1ik2x\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+C:\Users\dream\OneDrive\Рабочий стол\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\appsettings.production.json
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\appsettings.staging.json
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\scopedcss\bundle\EBook.styles.css
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\Администратор\Desktop\MyCompany45\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\я\OneDrive\Рабочий стол\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\scopedcss\bundle\EBook.styles.css
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\Администратор\Desktop\gg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\scopedcss\bundle\EBook.styles.css
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\ggg\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.exe
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.deps.json
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.json
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.runtimeconfig.dev.json
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.pdb
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\EBook.Views.pdb
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GGGG\boks\MyCompany\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csprojAssemblyReference.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfoInputs.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.AssemblyInfo.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CoreCompileInputs.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.MvcApplicationPartsAssemblyInfo.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorAssemblyInfo.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.Manifest.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\staticwebassets\EBook.StaticWebAssets.xml
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\scopedcss\bundle\EBook.styles.css
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.input.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.TagHelpers.output.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorCoreGenerate.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Services\Show.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SidebarPartial.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cache
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.RazorTargetAssemblyInfo.cs
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.Views.pdb
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.csproj.CopyComplete
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.dll
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.pdb
+D:\GGGG\boks\MyCompany\obj\Debug\netcoreapp3.1\EBook.genruntimeconfig.cache
